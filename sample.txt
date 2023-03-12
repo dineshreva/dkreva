@@ -1,1 +1,8 @@
-data value to be added to our resume
+Hello Everyone,
+
+Today i created my first github account, i am very excited to use this software to upload project related to code and document.
+
+
+thanks,
+Dkreva
+
