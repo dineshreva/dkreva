@@ -16,6 +16,7 @@ public class JavaPython {
 		while((s = br.readLine())!= null){
 			System.out.println(s);
 			System.out.println("Hello ");
+			System.out.println("Bye");
 			}
 		}catch (Exception e) {
 			e.printStackTrace();
